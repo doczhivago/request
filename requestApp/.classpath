@@ -11,21 +11,20 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
 	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/gcm.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-api-client-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-api-client-android-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-http-client-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-http-client-android-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-http-client-gson-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-http-client-jackson-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-http-client-jackson2-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/google-oauth-client-1.16.0-rc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/gson-2.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/jackson-core-2.1.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/jackson-core-asl-1.9.11.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/requestApp/requestApp/libs/jsr305-1.3.9.jar"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="src" path="requestApp/endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
 	<classpathentry kind="src" path="requestApp/endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/gcm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-api-client-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-api-client-android-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-http-client-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-http-client-android-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-http-client-gson-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-http-client-jackson-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-http-client-jackson2-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/google-oauth-client-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/gson-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/FB/git/request/requestApp/libs/jsr305-1.3.9.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
